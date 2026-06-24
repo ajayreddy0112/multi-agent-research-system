@@ -6,6 +6,9 @@
 venv/
 env/
 
+# Streamlit secrets (do NOT commit real keys)
+.streamlit/secrets.toml
+
 # Python
 __pycache__/
 *.py[cod]

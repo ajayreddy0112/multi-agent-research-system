@@ -1,7 +1,7 @@
 [project]
 name = "multi-agent-research-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "ResearchMind — a four-stage LangChain multi-agent pipeline (search → read → write → critique) with a Streamlit UI."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
