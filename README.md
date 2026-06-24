@@ -1,5 +1,7 @@
 # ResearchMind
 
+**🔬 Live demo:** [multi-agent-research-system.streamlit.app](https://multi-agent-research-system-nkqxznsgg3tmq9zmg3htiu.streamlit.app/)
+
 A multi-agent research assistant built with **LangChain** and **Mistral**. Four
 specialized agents collaborate end-to-end — searching the web, scraping the most
 relevant source, drafting a structured report, and critiquing it — and the whole
